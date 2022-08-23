@@ -1,0 +1,16 @@
+C:\Users\YUKI III THE GREAT\Desktop\UTN\3 Cuatrimestre\EjercitacionClase2D-KreczmerNakasone-EzequielYukio\Ejercitación en clase\Clase_01\bin\Debug\net5.0\Clase_01.exe
+C:\Users\YUKI III THE GREAT\Desktop\UTN\3 Cuatrimestre\EjercitacionClase2D-KreczmerNakasone-EzequielYukio\Ejercitación en clase\Clase_01\bin\Debug\net5.0\Clase_01.deps.json
+C:\Users\YUKI III THE GREAT\Desktop\UTN\3 Cuatrimestre\EjercitacionClase2D-KreczmerNakasone-EzequielYukio\Ejercitación en clase\Clase_01\bin\Debug\net5.0\Clase_01.runtimeconfig.json
+C:\Users\YUKI III THE GREAT\Desktop\UTN\3 Cuatrimestre\EjercitacionClase2D-KreczmerNakasone-EzequielYukio\Ejercitación en clase\Clase_01\bin\Debug\net5.0\Clase_01.runtimeconfig.dev.json
+C:\Users\YUKI III THE GREAT\Desktop\UTN\3 Cuatrimestre\EjercitacionClase2D-KreczmerNakasone-EzequielYukio\Ejercitación en clase\Clase_01\bin\Debug\net5.0\Clase_01.dll
+C:\Users\YUKI III THE GREAT\Desktop\UTN\3 Cuatrimestre\EjercitacionClase2D-KreczmerNakasone-EzequielYukio\Ejercitación en clase\Clase_01\bin\Debug\net5.0\Clase_01.pdb
+C:\Users\YUKI III THE GREAT\Desktop\UTN\3 Cuatrimestre\EjercitacionClase2D-KreczmerNakasone-EzequielYukio\Ejercitación en clase\Clase_01\obj\Debug\net5.0\Clase_01.csproj.AssemblyReference.cache
+C:\Users\YUKI III THE GREAT\Desktop\UTN\3 Cuatrimestre\EjercitacionClase2D-KreczmerNakasone-EzequielYukio\Ejercitación en clase\Clase_01\obj\Debug\net5.0\Clase_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YUKI III THE GREAT\Desktop\UTN\3 Cuatrimestre\EjercitacionClase2D-KreczmerNakasone-EzequielYukio\Ejercitación en clase\Clase_01\obj\Debug\net5.0\Clase_01.AssemblyInfoInputs.cache
+C:\Users\YUKI III THE GREAT\Desktop\UTN\3 Cuatrimestre\EjercitacionClase2D-KreczmerNakasone-EzequielYukio\Ejercitación en clase\Clase_01\obj\Debug\net5.0\Clase_01.AssemblyInfo.cs
+C:\Users\YUKI III THE GREAT\Desktop\UTN\3 Cuatrimestre\EjercitacionClase2D-KreczmerNakasone-EzequielYukio\Ejercitación en clase\Clase_01\obj\Debug\net5.0\Clase_01.csproj.CoreCompileInputs.cache
+C:\Users\YUKI III THE GREAT\Desktop\UTN\3 Cuatrimestre\EjercitacionClase2D-KreczmerNakasone-EzequielYukio\Ejercitación en clase\Clase_01\obj\Debug\net5.0\Clase_01.dll
+C:\Users\YUKI III THE GREAT\Desktop\UTN\3 Cuatrimestre\EjercitacionClase2D-KreczmerNakasone-EzequielYukio\Ejercitación en clase\Clase_01\obj\Debug\net5.0\refint\Clase_01.dll
+C:\Users\YUKI III THE GREAT\Desktop\UTN\3 Cuatrimestre\EjercitacionClase2D-KreczmerNakasone-EzequielYukio\Ejercitación en clase\Clase_01\obj\Debug\net5.0\Clase_01.pdb
+C:\Users\YUKI III THE GREAT\Desktop\UTN\3 Cuatrimestre\EjercitacionClase2D-KreczmerNakasone-EzequielYukio\Ejercitación en clase\Clase_01\obj\Debug\net5.0\Clase_01.genruntimeconfig.cache
+C:\Users\YUKI III THE GREAT\Desktop\UTN\3 Cuatrimestre\EjercitacionClase2D-KreczmerNakasone-EzequielYukio\Ejercitación en clase\Clase_01\obj\Debug\net5.0\ref\Clase_01.dll
