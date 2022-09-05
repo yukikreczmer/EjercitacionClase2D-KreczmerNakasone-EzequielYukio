@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hgamgbx7aVyZo6LD7Ijf6oSVKadhj+Xa3WSA67Nd7cmveVdf89gXmM/h0ZTj3Ubyqx7wWeg4aed/bv7XDxSpbA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\YUKI III THE GREAT\\Desktop\\UTN\\3 Cuatrimestre\\EjercitacionClase2D-KreczmerNakasone-EzequielYukio\\Ejercitación en clase\\Clase_03\\Vista I01 - Validador de rangos\\Vista I01 - Validador de rangos.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "No se encuentra el proyecto \"C:\\Users\\YUKI III THE GREAT\\Desktop\\UTN\\3 Cuatrimestre\\EjercitacionClase2D-KreczmerNakasone-EzequielYukio\\Ejercitación en clase\\Clase_03\\Biblioteca\\Biblioteca.csproj\". Compruebe que la referencia al proyecto sea válida y que exista el archivo de proyecto.",
+      "libraryId": "C:\\Users\\YUKI III THE GREAT\\Desktop\\UTN\\3 Cuatrimestre\\EjercitacionClase2D-KreczmerNakasone-EzequielYukio\\Ejercitación en clase\\Clase_03\\Biblioteca\\Biblioteca.csproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
