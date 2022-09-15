@@ -1,0 +1,12 @@
+C:\Users\YUKI III THE GREAT\Desktop\UTN\3 Cuatrimestre\EjercitacionClase2D-KreczmerNakasone-EzequielYukio\Ejercitación en clase\Herencia\Herencia\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\YUKI III THE GREAT\Desktop\UTN\3 Cuatrimestre\EjercitacionClase2D-KreczmerNakasone-EzequielYukio\Ejercitación en clase\Herencia\Herencia\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YUKI III THE GREAT\Desktop\UTN\3 Cuatrimestre\EjercitacionClase2D-KreczmerNakasone-EzequielYukio\Ejercitación en clase\Herencia\Herencia\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\YUKI III THE GREAT\Desktop\UTN\3 Cuatrimestre\EjercitacionClase2D-KreczmerNakasone-EzequielYukio\Ejercitación en clase\Herencia\Herencia\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\YUKI III THE GREAT\Desktop\UTN\3 Cuatrimestre\EjercitacionClase2D-KreczmerNakasone-EzequielYukio\Ejercitación en clase\Herencia\Herencia\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\YUKI III THE GREAT\Desktop\UTN\3 Cuatrimestre\EjercitacionClase2D-KreczmerNakasone-EzequielYukio\Ejercitación en clase\Herencia\Herencia\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\YUKI III THE GREAT\Desktop\UTN\3 Cuatrimestre\EjercitacionClase2D-KreczmerNakasone-EzequielYukio\Ejercitación en clase\Herencia\Herencia\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\YUKI III THE GREAT\Desktop\UTN\3 Cuatrimestre\EjercitacionClase2D-KreczmerNakasone-EzequielYukio\Ejercitación en clase\Herencia\Herencia\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\YUKI III THE GREAT\Desktop\UTN\3 Cuatrimestre\EjercitacionClase2D-KreczmerNakasone-EzequielYukio\Ejercitación en clase\Herencia\Herencia\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\YUKI III THE GREAT\Desktop\UTN\3 Cuatrimestre\EjercitacionClase2D-KreczmerNakasone-EzequielYukio\Ejercitación en clase\Herencia\Herencia\Entidades\obj\Debug\net5.0\refint\Entidades.dll
+C:\Users\YUKI III THE GREAT\Desktop\UTN\3 Cuatrimestre\EjercitacionClase2D-KreczmerNakasone-EzequielYukio\Ejercitación en clase\Herencia\Herencia\Entidades\obj\Debug\net5.0\Entidades.pdb
+C:\Users\YUKI III THE GREAT\Desktop\UTN\3 Cuatrimestre\EjercitacionClase2D-KreczmerNakasone-EzequielYukio\Ejercitación en clase\Herencia\Herencia\Entidades\obj\Debug\net5.0\ref\Entidades.dll
